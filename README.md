@@ -1,3 +1,1 @@
-git add .
-git commit -m ""
-git push
+Repository to hold all the proejcts delivered under various Udacity Nanodegrees

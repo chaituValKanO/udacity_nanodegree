@@ -1,0 +1,31 @@
+{
+    "os": "Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.10",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-02-07T09:00:24.699652",
+    "startedAt": "2022-02-07T09:00:16.889307",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--input_file",
+        "zen.txt",
+        "--artifact_name",
+        "zen_of_python",
+        "--artifact_type",
+        "text_file",
+        "--artifact_description",
+        "20 aphorisms about writing good python code"
+    ],
+    "state": "running",
+    "program": "upload_artifact.py",
+    "codePath": "machine-learning-dev-ops-engineer-nanodegree/Modules/Building a Reproducible Model Workflow/exercise1/upload_artifact.py",
+    "git": {
+        "remote": "https://github.com/chaituValKanO/udacity_nanodegree.git",
+        "commit": "a471fa8c31a00c829704f5cdb99369b3eb533c17"
+    },
+    "email": null,
+    "root": "/home/chaitanyakanth/udacity_nanodegree",
+    "host": "ValkanO",
+    "username": "chaitanyakanth",
+    "executable": "/home/chaitanyakanth/miniconda3/envs/udacity/bin/python"
+}

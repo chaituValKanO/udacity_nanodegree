@@ -1,0 +1,7 @@
+name: exploratory_data_analysis
+conda_env: conda.yml
+
+entry_points:
+    main:
+        command: >-
+            jupyter notebook
